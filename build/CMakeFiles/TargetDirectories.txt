@@ -1,0 +1,3 @@
+/home/ubuntu/npu_test/unet/build/CMakeFiles/unet.dir
+/home/ubuntu/npu_test/unet/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/npu_test/unet/build/CMakeFiles/rebuild_cache.dir
